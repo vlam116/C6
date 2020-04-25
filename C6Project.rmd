@@ -1,6 +1,8 @@
 ---
-output: 
-  html_document: 
+output:
+  pdf_document: 
+    keep_tex: yes
+  html_document:
     keep_md: yes
 ---
 # Statistical Inference Course Project: Simulation and Inferential Data Analysis
